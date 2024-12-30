@@ -1,1 +1,1 @@
-"# calculator-sync"  
+# calculator-sync
